@@ -4,7 +4,7 @@ Licenses for your projects.
 A license for projects you wish to advertise as your own work, and that you would not like commerical entities to use. Good for end products, such as websites or desktop apps.  
 ## 1:2 - Mine, for you.
 A license for software you wish to be credited for, but in a less in-depth way that permits commercial use. Good for libraries and components of a larger system, that will likely end up as part of other projects.
-## 1:2 - Mine, yours, everyone's.
+## 1:3 - Mine, yours, everyone's.
 A license that permits all uses of your code, with or without attribution.
 ## Notes
 - All licenses include an "AS IS" statment as found in the MIT license  
